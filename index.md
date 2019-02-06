@@ -1,10 +1,10 @@
-## Yakışıklı çoçuğun sayfası
+## Yakışıklı 
 
 Didem **giremez**
 
 ### Tolga
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Haberler](www.hurriyet.com)
 
 ```markdown
 Syntax highlighted code block
