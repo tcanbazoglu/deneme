@@ -6,7 +6,9 @@ Didem **giremez**
 
 [Haberler](www.hurriyet.com)
 
-Syntax highlighted code block
+(www.hurriyet.com)
+
+hello word 
 
 # Tolga
 ## Canbazoglu
