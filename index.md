@@ -6,7 +6,6 @@ Didem **giremez**
 
 [Haberler](www.hurriyet.com)
 
-```markdown
 Syntax highlighted code block
 
 # Tolga
