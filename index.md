@@ -15,4 +15,4 @@
 
 ### Support or Contact
 
-Sorununuz varsa ulaşın çözelimmmm[contact support](https://github.com/contact)
+Sorununuz varsa ulaşın[contact support](https://github.com/contact)
